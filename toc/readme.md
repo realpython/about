@@ -17,8 +17,7 @@ The following items will be part of the Beta edition of the course, launching in
 2. Course 2:
 
   - Additional Practice Problems
-  - Flask: Git Matched
-  - Flask: Git Projects
+  - Additional Flash tutorials (consuming APIs)
   - More jQuery
   - PostgreSQL
   - NoSQL
