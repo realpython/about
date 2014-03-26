@@ -4,7 +4,7 @@
 2. Counse 2: Web Development with Python
 3. Course 3: Advanced Web Development with Django 1.6
 
-#### Future Material
+#### Future Material:
 
 The following items will be part of the Beta edition of the course, launching in May 2014 (with Django 1.7). 
 
