@@ -10,9 +10,9 @@ The following items will be part of the Beta edition of the course, launching in
 
 1. Course 1:
 
-  -Additional Practice Problems
-  -Regular Expressions
-  -Object Oriented Programming
+  - Additional Practice Problems
+  - Regular Expressions
+  - Object Oriented Programming
 
 2. Course 2:
 
