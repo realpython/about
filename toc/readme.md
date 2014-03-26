@@ -9,19 +9,22 @@
 The following items will be part of the Beta edition of the course, launching in May 2014 (with Django 1.7). 
 
 1. Course 1:
+
 -Additional Practice Problems
 -Regular Expressions
 -Object Oriented Programming
 
 2. Course 2:
+
 -Additional Practice Problems
 -Flask: Git Matched
 -Flask: Git Projects
 -More jQuery
 -PostgreSQL
-=NoSQL
+-NoSQL
 
 3. Course 3:
+
 -Agile testing pyramid
 -REST testing
 -Selenium testing
