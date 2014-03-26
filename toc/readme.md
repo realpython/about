@@ -9,7 +9,6 @@
 The following items will be part of the Beta edition of the course, launching in May 2014 (with Django 1.7). 
 
 1. Course 1:
-
   - Additional Practice Problems
   - Regular Expressions
   - Object Oriented Programming
