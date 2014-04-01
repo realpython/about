@@ -8,9 +8,9 @@ Please note we update this file anytime we make any changes. However, such chang
 
 | Chapter            | Description                                          | Release Info |
 |--------------------|------------------------------------------------------|--------------|
-| Getting Started    | Added info re: requirements.txt                      | N/A          |
-| Django: Quickstart | Updated info about Projects vs Apps                  | N/A          |
-| Django: Quickstart | Added summary workflow for creating a Django Project | N/A          |
+| Getting Started    | Added info re: requirements.txt                      | Alpha v2.1   |
+| Django: Quickstart | Updated info about Projects vs Apps                  | Alpha v2.1   |
+| Django: Quickstart | Added summary workflow for creating a Django Project | Alpha v2.1   |
 
 
 ### Course 3:

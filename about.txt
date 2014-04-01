@@ -6,7 +6,7 @@ Thanks for purchasing one or all of the Real Python courses.
 2. Part 2: Web Development with Python
 3. Part 3: Advanced Web Development with Django 1.6
 
-Version: Alpha v2.0
+Version: Alpha v2.1
 
 This download contains the course(s) in PDF, mobi, and ePub formats. You can view the subsequent exercises/assignments, access support, and find additional course materials at https://github.com/realpython.
 
