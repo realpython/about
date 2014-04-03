@@ -16,6 +16,6 @@ Please note we update this file anytime we make any changes. However, such chang
 ### Course 3:
 | Chapter            | Description                                          | Release Info |
 |--------------------|------------------------------------------------------|--------------|
-| Software Craftsmanship    | Fixed unit test on page 31                    | Alpha v2.2   |
+| Software Craftsmanship    | Fixed unit test on page 31                    | Alpha v2.1   |
 
 
