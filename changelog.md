@@ -19,5 +19,6 @@ Please note we update this file anytime we make any changes. However, such chang
 | Chapter            | Description                                          | Release Info |
 |--------------------|------------------------------------------------------|--------------|
 | Software Craftsmanship    | Fixed unit test on page 31                    | Alpha v2.1   |
+| Introduction | thanks to Jesse Butcher for submiting the correct author of the tinyp2p code the author is now credited | Alpha v2.1 |
 
 
