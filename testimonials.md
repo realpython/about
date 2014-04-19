@@ -4,6 +4,14 @@ Please email us at info@realpython.com, if you'd like to add your testimonial. C
 
 <br>
 
+Real Python is an awesome resource for the budding developer. Not only will you learn Python, you will learn how to *use* it as you build practical and functional web-based applications that increase in complexity throughout the course. The series introduced me to the power of Flask, demystified Django, and got me thinking of development as craftsmanship. 
+
+I floundered for a long time trying to teach myself. I slogged through dozens of incomplete online tutorials. I snoozed through hours of boring screencasts. I gave up on countless crufty books from big-time publishers. And then I found Real Python. The easy-to-follow, step-by-step instructions break the big concepts down into bite-sized chunks written in plain English. The authors never forget their audience and are consistently thorough and detailed in their explanations. I'm up and running now, but I constantly refer to these books for guidance. 
+
+Get Real Python and get your hands dirty quickly so you spend less time in the abstract and more time making real applications. You could waste weeks, maybe months, groping in the dark for this information on your own. Or you could buy the series and get started today. It's worth every penny. Are you still reading my testimonial? What are you waiting for? That app isn't going to build itself.
+
+- Jared Nielsen (jared@dototot.com)
+
 Honestly, throughout this whole process what I found was just me looking really hard for things that could maybe be added or improved, but this tutorial is amazing! You do a wonderful job of explaining and teaching Python in a way that people like me, a complete novice, could really grasp.The flow of the lessons works perfectly throughout. The exercises truly helped along the way and you feel very accomplished when you finish up the course. I think you have a gift for making Python seem more attainable to people outside the programming world. This is something I never thought I would be doing or learning and with a little push from you I am learning it and I can see that it will be nothing but beneficial to me in the future!
 
 - Shea Klusewicz (sklusewicz@gmail.com)
