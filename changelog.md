@@ -11,8 +11,8 @@ Please note we update this file anytime we make any changes. However, such chang
 | Getting Started    | Added info re: requirements.txt                      | Alpha v2.1   |
 | Django: Quickstart | Updated info about Projects vs Apps                  | Alpha v2.1   |
 | Django: Quickstart | Added summary workflow for creating a Django Project | Alpha v2.1   |
-| Django: Quickstart | Updated the Hello World Project | n/a   |
-| Django: Quickstart | Updated the Blog Project | n/a   |
+| Django: Quickstart | Updated the Hello World Project 						| Alpha v2.2   |
+| Django: Quickstart | Updated the Blog Project 							| Alpha v2.2   |
 
 
 ### Course 3:
