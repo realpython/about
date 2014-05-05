@@ -20,8 +20,8 @@ Please note we update this file anytime we make any changes. However, such chang
 |--------------------|------------------------------------------------------|--------------|
 | Software Craftsmanship    | Fixed unit test on page 31                    | Alpha v2.1   |
 | Introduction | thanks to Jesse Butcher for submiting the correct author of the tinyp2p code the author is now credited | Alpha v2.1 |
-|Several Chapter | Updated chapters 5, 6, 7, 8 and 20 to reference Django 1.7 instead of 1.6 | Beta v3.1|
-|Building a Members Page | Added discusson on new queryset features in Django 1.7 | Beta v3.1|
+|Several Chapters | Updated chapters 5, 6, 7, 8 and 20 to reference Django 1.7 instead of 1.6 | N/A|
+|Building a Members Page | Added discusson on new queryset features in Django 1.7 | N/A|
 
 
 
