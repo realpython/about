@@ -17,23 +17,17 @@ Course 1:
 Course 2:
 
   - Additional Practice Problems
-  - Additional Flash tutorials (consuming APIs)
+  - Additional Flask tutorials (consuming APIs)
   - More jQuery
   - PostgreSQL
-  - NoSQL
+  - NoSQL (if time permits)
 
 Course 3:
 
-  - Agile testing pyramid
   - REST testing
   - Selenium testing
   - GUI Test Considerations
-  - Crash course in Data Modeling in MongoDB
-  - Django NoRel
-  - Django MongoDB
-  - Managing inventory / items for sales from Admin Interface
-  - Creating / managing sales campaigns from admin interface
-  - Google Analytics displayed in admin interface
-  - VIM - the perfect Python IDE
+  - Migrations
+  - Angular
 
 *And more!*
