@@ -49,3 +49,7 @@ Thanks! I got to read the first 3 chapters of the book the first time it was ava
 Just wanted to say thanks! I’ve tried using another tutorial but it was very convoluted and difficult to understand – this is much more straightforward! I really liked it! The best part is the practical application. I had no idea Python was this much fun. I literally built a number of websites from ground up and am in the process of launching my first MVP. Best Kickstarter ever.
 
 - Ryan
+
+The courses ... are ... awesome!!!
+
+- Stavros Anastasiadis (anastasiadis.st00@gmail.com)
