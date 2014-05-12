@@ -4,6 +4,11 @@ Please note we update this file anytime we make any changes. However, such chang
 
 ### Course 1:
 
+| Chapter            | Description                                          | Release Info |
+|--------------------|------------------------------------------------------|--------------|
+| Fundamentals: Lists and Dictionaries | Added new assignment               | N/A   |
+
+
 ### Course 2:
 
 | Chapter            | Description                                          | Release Info |
