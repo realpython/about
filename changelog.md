@@ -6,7 +6,7 @@ Please note we update this file anytime we make any changes. However, such chang
 
 | Chapter            | Description                                          | Release Info |
 |--------------------|------------------------------------------------------|--------------|
-| Fundamentals: Lists and Dictionaries | Added new assignment               | N/A   |
+| Fundamentals: Lists and Dictionaries | Added two new assignments               | N/A   |
 | Interact with PDF files | Added section on creating PDF files               | N/A   |
 
 
