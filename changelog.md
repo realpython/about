@@ -8,6 +8,7 @@ Please note we update this file anytime we make any changes. However, such chang
 |--------------------|------------------------------------------------------|--------------|
 | Fundamentals: Lists and Dictionaries | Added two new assignments               | N/A   |
 | Interact with PDF files | Added section on creating PDF files               | N/A   |
+| File Input and Output | Added new assignment               | N/A   |
 
 
 ### Course 2:
