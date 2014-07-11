@@ -23,6 +23,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Quickstart | Updated the Hello World Project 						| Alpha v2.2   | April 2014   |
 | Django: Quickstart | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
 | N/A                | Added new chapter on the overall Django Workflow     | N/A          | N/A          |
+| N/A                | Added new chapter on BDD with Flask                  | N/A          |              |
+| N/A                | Updated footnote formatting                          | N/A          |              |
 
 
 ### Course 3:
@@ -31,8 +33,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 |-------------------------|-----------------------------------------------------|--------------|--------------|
 | Software Craftsmanship  | Fixed unit test on page 31                          | Alpha v2.1   | April 2014   |
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
-| Various                 | Upgraded to Django 1.7                              | N/A          | April 2014   |
-| Building a Members Page | Added new queryset features in Django 1.7           | N/A          | April 2014   |
+| Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
+| Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
 
 
 
