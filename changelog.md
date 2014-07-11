@@ -23,8 +23,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Quickstart | Updated the Hello World Project 						| Alpha v2.2   | April 2014   |
 | Django: Quickstart | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
 | N/A                | Added new chapter on the overall Django Workflow     | N/A          | N/A          |
-| N/A                | Added new chapter on BDD with Flask                  | N/A          |              |
-| N/A                | Updated footnote formatting                          | N/A          |              |
+| N/A                | Added new chapter on BDD with Flask                  | N/A          | N/A          |
+| N/A                | Updated footnote formatting                          | N/A          | N/A          |
 
 
 ### Course 3:
