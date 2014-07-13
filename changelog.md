@@ -6,12 +6,12 @@ Please note: We update this file anytime we make any changes. However, such chan
 
 | Chapter                   | Description                                   | Release Info  | Release Date  |
 |---------------------------|-----------------------------------------------|---------------|---------------|
-| Lists and Dictionaries    | Added two new assignments                     | N/A           | N/A           |
-| Interact with PDF files   | Added section on creating PDF files           | N/A           | N/A           |
-| File Input and Output     | Added new assignment                          | N/A           | N/A           |
-| N/A                       | Updated all code to adhere to pep8 standards  | N/A           | N/A           |
-| N/A                       | Added chapter on OOP                          | N/A           | N/A           |
-| N/A                       | Added chapter on regex                        | N/A           | N/A           |
+| Lists and Dictionaries    | Added two new assignments                     | Alpha v3      | 7/11/2014     |
+| Interact with PDF files   | Added section on creating PDF files           | Alpha v3      | 7/11/2014     |
+| File Input and Output     | Added new assignment                          | Alpha v3      | 7/11/2014     |
+| N/A                       | Updated all code to adhere to pep8 standards  | Alpha v3      | 7/11/2014     |
+| N/A                       | Added chapter on OOP                          | Alpha v3      | 7/11/2014     |
+| N/A                       | Added chapter on regex                        | Alpha v3      | 7/11/2014     |
 
 ### Course 2:
 
