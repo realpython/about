@@ -16,6 +16,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Corrected all epub errors                     | N/A           | N/A           |
 | N/A                       | Updated syntax highlighting                   | N/A           | N/A           |
 | Appendix                  | Updated Python download instructions          | N/A           | N/A           |
+| Lists and Dictionaries    | Added new assignment                          | N/A           | N/A           |
 
 ### Course 2:
 
