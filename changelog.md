@@ -37,6 +37,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Blog App   | Updated for Django 1.7                               | N/A          | N/A          |
 | Getting Started    | Revised/edited                                       | N/A          | N/A          |
 | Appendix           | Updated Python download instructions                 | N/A          | N/A          |
+| Getting Started    | Expanded command line section                        | N/A          | N/A          |
 
 ### Course 3:
 
