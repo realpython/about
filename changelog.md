@@ -15,6 +15,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Functions and Loops       | Added summary                                 | N/A           | N/A           |
 | N/A                       | Corrected all epub errors                     | N/A           | N/A           |
 | N/A                       | Updated syntax highlighting                   | N/A           | N/A           |
+| Appendix                  | Updated Python download instructions          | N/A           | N/A           |
 
 ### Course 2:
 
@@ -35,6 +36,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Quickstart | Updated for Django 1.7                               | N/A          | N/A          |
 | Django: Blog App   | Updated for Django 1.7                               | N/A          | N/A          |
 | Getting Started    | Revised/edited                                       | N/A          | N/A          |
+| Appendix           | Updated Python download instructions                 | N/A          | N/A          |
 
 ### Course 3:
 
