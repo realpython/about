@@ -12,6 +12,9 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Updated all code to adhere to pep8 standards  | Alpha v3      | 7/11/2014     |
 | N/A                       | Added chapter on OOP                          | Alpha v3      | 7/11/2014     |
 | N/A                       | Added chapter on regex                        | Alpha v3      | 7/11/2014     |
+| Functions and Loops       | Added summary                                 | N/A           | N/A           |
+| N/A                       | Corrected all epub errors                     | N/A           | N/A           |
+| N/A                       | Updated syntax highlighting                   | N/A           | N/A           |
 
 ### Course 2:
 
@@ -20,12 +23,18 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Getting Started    | Added info on requirements.txt                       | Alpha v2.1   | April 2014   |
 | Django: Quickstart | Updated info about Projects vs Apps                  | Alpha v2.1   | April 2014   |
 | Django: Quickstart | Added summary workflow for creating a Django Project | Alpha v2.1   | April 2014   |
-| Django: Quickstart | Updated the Hello World Project 						| Alpha v2.2   | April 2014   |
-| Django: Quickstart | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
+| Django: Quickstart | Updated the Hello World Project for 				    | Alpha v2.2   | April 2014   |
+| Django: Blog App   | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
 | N/A                | Added new chapter on the overall Django Workflow     | N/A          | N/A          |
 | N/A                | Added new chapter on BDD with Flask                  | N/A          | N/A          |
 | N/A                | Updated footnote formatting                          | N/A          | N/A          |
-
+| N/A                | Corrected all epub errors                            | N/A          | N/A          |
+| N/A                | Updated syntax highlighting                          | N/A          | N/A          |
+| Django Ecommerce   | Refactored                                           | N/A          | N/A          |
+| FlaskTaskr         | Revised/edited                                       | N/A          | N/A          |
+| Django: Quickstart | Updated for Django 1.7                               | N/A          | N/A          |
+| Django: Blog App   | Updated for Django 1.7                               | N/A          | N/A          |
+| Getting Started    | Revised/edited                                       | N/A          | N/A          |
 
 ### Course 3:
 
