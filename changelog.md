@@ -12,11 +12,11 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Updated all code to adhere to pep8 standards  | Alpha v3      | 7/11/2014     |
 | N/A                       | Added chapter on OOP                          | Alpha v3      | 7/11/2014     |
 | N/A                       | Added chapter on regex                        | Alpha v3      | 7/11/2014     |
-| Functions and Loops       | Added summary                                 | N/A           | N/A           |
-| N/A                       | Corrected all epub errors                     | N/A           | N/A           |
-| N/A                       | Updated syntax highlighting                   | N/A           | N/A           |
-| Appendix                  | Updated Python download instructions          | N/A           | N/A           |
-| Lists and Dictionaries    | Added new assignment                          | N/A           | N/A           |
+| Functions and Loops       | Added summary                                 | Alpha v4      | 7/18/2014     |
+| N/A                       | Corrected all epub errors                     | Alpha v4      | 7/18/2014     |
+| N/A                       | Updated syntax highlighting                   | Alpha v4      | 7/18/2014     |
+| Appendix                  | Updated Python download instructions          | Alpha v4      | 7/18/2014     |
+| Lists and Dictionaries    | Added new assignment                          | Alpha v4      | 7/18/2014     |
 
 ### Course 2:
 
@@ -27,18 +27,18 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Quickstart | Added summary workflow for creating a Django Project | Alpha v2.1   | April 2014   |
 | Django: Quickstart | Updated the Hello World Project for 				    | Alpha v2.2   | April 2014   |
 | Django: Blog App   | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
-| N/A                | Added new chapter on the overall Django Workflow     | N/A          | N/A          |
-| N/A                | Added new chapter on BDD with Flask                  | N/A          | N/A          |
-| N/A                | Updated footnote formatting                          | N/A          | N/A          |
-| N/A                | Corrected all epub errors                            | N/A          | N/A          |
-| N/A                | Updated syntax highlighting                          | N/A          | N/A          |
-| Django Ecommerce   | Refactored                                           | N/A          | N/A          |
-| FlaskTaskr         | Revised/edited                                       | N/A          | N/A          |
-| Django: Quickstart | Updated for Django 1.7                               | N/A          | N/A          |
-| Django: Blog App   | Updated for Django 1.7                               | N/A          | N/A          |
-| Getting Started    | Revised/edited                                       | N/A          | N/A          |
-| Appendix           | Updated Python download instructions                 | N/A          | N/A          |
-| Getting Started    | Expanded command line section                        | N/A          | N/A          |
+| N/A                | Added new chapter on the overall Django Workflow     | Alpha v4     | 7/18/2014    |
+| N/A                | Added new chapter on BDD with Flask                  | Alpha v4     | 7/18/2014    |
+| N/A                | Updated footnote formatting                          | Alpha v4     | 7/18/2014    |
+| N/A                | Corrected all epub errors                            | Alpha v4     | 7/18/2014    |
+| N/A                | Updated syntax highlighting                          | Alpha v4     | 7/18/2014    |
+| Django Ecommerce   | Refactored                                           | Alpha v4     | 7/18/2014    |
+| FlaskTaskr         | Revised/edited                                       | Alpha v4     | 7/18/2014    |
+| Django: Quickstart | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
+| Django: Blog App   | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
+| Getting Started    | Revised/edited                                       | Alpha v4     | 7/18/2014    |
+| Appendix           | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
+| Getting Started    | Expanded command line section                        | Alpha v4     | 7/18/2014    |
 
 ### Course 3:
 
