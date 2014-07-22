@@ -20,25 +20,27 @@ Please note: We update this file anytime we make any changes. However, such chan
 
 ### Course 2:
 
-| Chapter            | Description                                          | Release Info | Release Date |
-|--------------------|------------------------------------------------------|--------------|--------------|
-| Getting Started    | Added info on requirements.txt                       | Alpha v2.1   | April 2014   |
-| Django: Quickstart | Updated info about Projects vs Apps                  | Alpha v2.1   | April 2014   |
-| Django: Quickstart | Added summary workflow for creating a Django Project | Alpha v2.1   | April 2014   |
-| Django: Quickstart | Updated the Hello World Project for 				    | Alpha v2.2   | April 2014   |
-| Django: Blog App   | Updated the Blog Project 							| Alpha v2.2   | April 2014   |
-| N/A                | Added new chapter on the overall Django Workflow     | Alpha v4     | 7/18/2014    |
-| N/A                | Added new chapter on BDD with Flask                  | Alpha v4     | 7/18/2014    |
-| N/A                | Updated footnote formatting                          | Alpha v4     | 7/18/2014    |
-| N/A                | Corrected all epub errors                            | Alpha v4     | 7/18/2014    |
-| N/A                | Updated syntax highlighting                          | Alpha v4     | 7/18/2014    |
-| Django Ecommerce   | Refactored                                           | Alpha v4     | 7/18/2014    |
-| FlaskTaskr         | Revised/edited                                       | Alpha v4     | 7/18/2014    |
-| Django: Quickstart | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
-| Django: Blog App   | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
-| Getting Started    | Revised/edited                                       | Alpha v4     | 7/18/2014    |
-| Appendix           | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
-| Getting Started    | Expanded command line section                        | Alpha v4     | 7/18/2014    |
+| Chapter              | Description                                          | Release Info | Release Date |
+|----------------------|------------------------------------------------------|--------------|--------------|
+| Getting Started      | Added info on requirements.txt                       | Alpha v2.1   | April 2014   |
+| Django: Quickstart   | Updated info about Projects vs Apps                  | Alpha v2.1   | April 2014   |
+| Django: Quickstart   | Added summary workflow for creating a Django Project | Alpha v2.1   | April 2014   |
+| Django: Quickstart   | Updated the Hello World Project for 				  | Alpha v2.2   | April 2014   |
+| Django: Blog App     | Updated the Blog Project 							  | Alpha v2.2   | April 2014   |
+| N/A                  | Added new chapter on the overall Django Workflow     | Alpha v4     | 7/18/2014    |
+| N/A                  | Added new chapter on BDD with Flask                  | Alpha v4     | 7/18/2014    |
+| N/A                  | Updated footnote formatting                          | Alpha v4     | 7/18/2014    |
+| N/A                  | Corrected all epub errors                            | Alpha v4     | 7/18/2014    |
+| N/A                  | Updated syntax highlighting                          | Alpha v4     | 7/18/2014    |
+| Django Ecommerce     | Refactored                                           | Alpha v4     | 7/18/2014    |
+| FlaskTaskr           | Revised/edited                                       | Alpha v4     | 7/18/2014    |
+| Django: Quickstart   | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
+| Django: Blog App     | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
+| Getting Started      | Revised/edited                                       | Alpha v4     | 7/18/2014    |
+| Appendix             | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
+| Getting Started      | Expanded command line section                        | Alpha v4     | 7/18/2014    |
+| Flask: Hello World   | Updated Dynamic URLs section                         | N/A          | N/A          |
+| Database Programming | Updated intro, added SQL sumary                      | N/A          | N/A          |
 
 ### Course 3:
 
@@ -48,6 +50,3 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
 | Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
 | Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
-
-
-
