@@ -39,10 +39,10 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Getting Started      | Revised/edited                                       | Alpha v4     | 7/18/2014    |
 | Appendix             | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
 | Getting Started      | Expanded command line section                        | Alpha v4     | 7/18/2014    |
-| Flask: Hello World   | Updated Dynamic URLs section                         | N/A          | N/A          |
-| FlaskTaskr           | Updated intro, added SQL sumary                      | N/A          | N/A          |
-| N/A                  | Django Blongo - Django + Mongo                       | N/A          | N/A          |
-| Database Programming | Updated intro, added SQL sumary                      | N/A          | N/A          |
+| Flask: Hello World   | Updated Dynamic URLs section                         | Alpha v5     | 8/19/2014    |
+| FlaskTaskr           | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
+| N/A                  | Django Blongo - Django + Mongo                       | Alpha v5     | 8/19/2014    |
+| Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 
 ### Course 3:
 
