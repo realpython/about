@@ -43,6 +43,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 | N/A                  | Django Blongo - Django + Mongo                       | Alpha v5     | 8/19/2014    |
 | Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
+| Flask: Hello World   | Added Flow the App section                           | N/A          | N/A          |
+
 
 ### Course 3:
 
