@@ -17,6 +17,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Updated syntax highlighting                   | Alpha v4      | 7/18/2014     |
 | Appendix                  | Updated Python download instructions          | Alpha v4      | 7/18/2014     |
 | Lists and Dictionaries    | Added new assignment                          | Alpha v4      | 7/18/2014     |
+| N/A                       | Added download instructions for course files  | N/A           | N/A           |
 
 ### Course 2:
 
@@ -46,6 +47,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Flask: Hello World   | Added Flow of the App section                        | N/A          | N/A          |
 | Django Ecommerce     | Added into about outputting forms as HTML            | N/A          | N/A          |
 | FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
+| N/A                  | Added download instructions for course files         | N/A          | N/A          |
+
 
 
 ### Course 3:
@@ -57,3 +60,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
 | Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
 | N/A                     | Corrected all epub errors                           | N/A          | N/A          |
+| N/A                     | Added download instructions for course files        | N/A          | N/A          |
