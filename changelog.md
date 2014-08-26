@@ -45,6 +45,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 | Flask: Hello World   | Added Flow of the App section                        | N/A          | N/A          |
 | Django Ecommerce     | Added into about outputting forms as HTML            | N/A          | N/A          |
+| FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
 
 
 ### Course 3:
