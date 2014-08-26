@@ -43,7 +43,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 | N/A                  | Django Blongo - Django + Mongo                       | Alpha v5     | 8/19/2014    |
 | Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
-| Flask: Hello World   | Added Flow the App section                           | N/A          | N/A          |
+| Flask: Hello World   | Added Flow of the App section                        | N/A          | N/A          |
+| Django Ecommerce     | Added into about outputting forms as HTML            | N/A          | N/A          |
 
 
 ### Course 3:
@@ -54,3 +55,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
 | Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
 | Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
+| N/A                     | Corrected all epub errors                           | N/A          | N/A          |
