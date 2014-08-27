@@ -35,8 +35,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Updated syntax highlighting                          | Alpha v4     | 7/18/2014    |
 | Django Ecommerce     | Refactored                                           | Alpha v4     | 7/18/2014    |
 | FlaskTaskr           | Revised/edited                                       | Alpha v4     | 7/18/2014    |
-| Django: Quickstart   | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
-| Django: Blog App     | Updated for Django 1.7                               | Alpha v4     | 7/18/2014    |
+| Django: Quickstart   | Updated for Django 1.7 RC1                           | Alpha v4     | 7/18/2014    |
+| Django: Blog App     | Updated for Django 1.7 RC1                           | Alpha v4     | 7/18/2014    |
 | Getting Started      | Revised/edited                                       | Alpha v4     | 7/18/2014    |
 | Appendix             | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
 | Getting Started      | Expanded command line section                        | Alpha v4     | 7/18/2014    |
@@ -48,6 +48,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django Ecommerce     | Added into about outputting forms as HTML            | N/A          | N/A          |
 | FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
 | N/A                  | Added download instructions for course files         | N/A          | N/A          |
+| Django: Quickstart   | Updated for Django 1.7 RC3                           | N/A          | N/A          |
 
 
 
@@ -57,7 +58,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 |-------------------------|-----------------------------------------------------|--------------|--------------|
 | Software Craftsmanship  | Fixed unit test on page 31                          | Alpha v2.1   | April 2014   |
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
-| Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
+| Various                 | Upgraded to Django 1.7 RC1                          | N/A          | N/A          |
 | Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
 | N/A                     | Corrected all epub errors                           | N/A          | N/A          |
 | N/A                     | Added download instructions for course files        | N/A          | N/A          |
