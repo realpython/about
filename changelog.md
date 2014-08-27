@@ -49,8 +49,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
 | N/A                  | Added download instructions for course files         | N/A          | N/A          |
 | Django: Quickstart   | Updated for Django 1.7 RC3                           | N/A          | N/A          |
-
-
+| Django: Blog App     | Updated for Django 1.7 RC3                           | N/A          | N/A          |
 
 ### Course 3:
 
