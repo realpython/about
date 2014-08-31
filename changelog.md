@@ -18,6 +18,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Appendix                  | Updated Python download instructions          | Alpha v4      | 7/18/2014     |
 | Lists and Dictionaries    | Added new assignment                          | Alpha v4      | 7/18/2014     |
 | N/A                       | Added download instructions for course files  | N/A           | N/A           |
+| Interacting with the web  | Updated typos                                 | N/A           | N/A           |
 
 ### Course 2:
 
