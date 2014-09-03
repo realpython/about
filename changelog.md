@@ -54,6 +54,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Blog App     | Updated Django Model Forms                           | N/A          | N/A          |
 | Getting Started      | Updated Git workflow                                 | N/A          | N/A          |
 | Bloggy Redux         | Updated for Django 1.7 (final)                       | N/A          | N/A          |
+| Scraping & Crawling  | Updated Wikipedia Crawler                            | N/A          | N/A          |
 
 
 ### Course 3:
