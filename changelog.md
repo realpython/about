@@ -62,7 +62,10 @@ Please note: We update this file anytime we make any changes. However, such chan
 |-------------------------|-----------------------------------------------------|--------------|--------------|
 | Software Craftsmanship  | Fixed unit test on page 31                          | Alpha v2.1   | April 2014   |
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
-| Various                 | Upgraded to Django 1.7 RC1                          | N/A          | N/A          |
+| Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
 | Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
 | N/A                     | Corrected all epub errors                           | N/A          | N/A          |
 | N/A                     | Added download instructions for course files        | N/A          | N/A          |
+| Various                 | Major refactors of all chapters                     | N/A          | N/A          |
+| N/A                     | New chapter: Building the Members Page              | N/A          | N/A          |
+
