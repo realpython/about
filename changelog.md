@@ -17,8 +17,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Updated syntax highlighting                   | Alpha v4      | 7/18/2014     |
 | Appendix                  | Updated Python download instructions          | Alpha v4      | 7/18/2014     |
 | Lists and Dictionaries    | Added new assignment                          | Alpha v4      | 7/18/2014     |
-| N/A                       | Added download instructions for course files  | N/A           | N/A           |
-| Interacting with the web  | Updated typos                                 | N/A           | N/A           |
+| N/A                       | Added download instructions for course files  | Beta v1       | 9/3/2014      |
+| Interacting with the web  | Updated typos                                 | Beta v1       | N/A           |
 
 ### Course 2:
 
@@ -45,16 +45,16 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 | N/A                  | Django Blongo - Django + Mongo                       | Alpha v5     | 8/19/2014    |
 | Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
-| Flask: Hello World   | Added Flow of the App section                        | N/A          | N/A          |
-| Django Ecommerce     | Added into about outputting forms as HTML            | N/A          | N/A          |
-| FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
-| N/A                  | Added download instructions for course files         | N/A          | N/A          |
-| Django: Quickstart   | Updated for Django 1.7 (final)                       | N/A          | N/A          |
-| Django: Blog App     | Updated for Django 1.7 (final)                       | N/A          | N/A          |
-| Django: Blog App     | Updated Django Model Forms                           | N/A          | N/A          |
-| Getting Started      | Updated Git workflow                                 | N/A          | N/A          |
-| Bloggy Redux         | Updated for Django 1.7 (final)                       | N/A          | N/A          |
-| Scraping & Crawling  | Updated Wikipedia Crawler                            | N/A          | N/A          |
+| Flask: Hello World   | Added Flow of the App section                        | Beta v1      | 9/3/2014     |
+| Django Ecommerce     | Added into about outputting forms as HTML            | Beta v1      | 9/3/2014     |
+| FlaskTaskr           | Corrected a few typos                                | Beta v1      | 9/3/2014     |
+| N/A                  | Added download instructions for course files         | Beta v1      | 9/3/2014     |
+| Django: Quickstart   | Updated for Django 1.7 (final)                       | Beta v1      | 9/3/2014     |
+| Django: Blog App     | Updated for Django 1.7 (final)                       | Beta v1      | 9/3/2014     |
+| Django: Blog App     | Updated Django Model Forms                           | Beta v1      | 9/3/2014     |
+| Getting Started      | Updated Git workflow                                 | Beta v1      | 9/3/2014     |
+| Bloggy Redux         | Updated for Django 1.7 (final)                       | Beta v1      | 9/3/2014     |
+| Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v1      | 9/3/2014     |
 
 
 ### Course 3:
@@ -63,10 +63,10 @@ Please note: We update this file anytime we make any changes. However, such chan
 |-------------------------|-----------------------------------------------------|--------------|--------------|
 | Software Craftsmanship  | Fixed unit test on page 31                          | Alpha v2.1   | April 2014   |
 | Introduction            | updated author of tinyp2p - thanks to Jesse Butcher | Alpha v2.1   | April 2014   |
-| Various                 | Upgraded to Django 1.7                              | N/A          | N/A          |
-| Building a Members Page | Added new queryset features in Django 1.7           | N/A          | N/A          |
-| N/A                     | Corrected all epub errors                           | N/A          | N/A          |
-| N/A                     | Added download instructions for course files        | N/A          | N/A          |
-| Various                 | Major refactors of all chapters                     | N/A          | N/A          |
-| N/A                     | New chapter: Building the Members Page              | N/A          | N/A          |
+| Various                 | Upgraded to Django 1.7                              | Beta v1      | 9/3/2014     |
+| Building a Members Page | Added new queryset features in Django 1.7           | Beta v1      | 9/3/2014     |
+| N/A                     | Corrected all epub errors                           | Beta v1      | 9/3/2014     |
+| N/A                     | Added download instructions for course files        | Beta v1      | 9/3/2014     |
+| Various                 | Major refactors of all chapters                     | Beta v1      | 9/3/2014     |
+| N/A                     | New chapter: Building the Members Page              | Beta v1      | 9/3/2014     |
 
