@@ -56,6 +56,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Bloggy Redux         | Updated for Django 1.7 (final)                       | Beta v1      | 9/3/2014     |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v1      | 9/3/2014     |
 | FlaskTaskr - part 3  | Corrected an error in the setup method for tests     | N/A          | N/A          |
+| FlaskTaskr - part 4  | Fixed typo in main template file                     | N/A          | N/A          |
 
 
 ### Course 3:
