@@ -61,6 +61,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr - part 4  | Fixed typo in main template file                     | N/A          | N/A          |
 | N/A                  | Added chapter numbers to epub toc                    | N/A          | N/A          |
 | N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
+| Getting Started      | Expanded the Command Line section                    | N/A          | N/A          |
 
 ### Course 3:
 
