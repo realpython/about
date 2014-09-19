@@ -62,6 +62,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Added chapter numbers to epub toc                    | N/A          | N/A          |
 | N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
 | Getting Started      | Expanded the Command Line section                    | N/A          | N/A          |
+| Django: Blog App     | Added a number of features/fixes                     | N/A          | N/A          |
 
 ### Course 3:
 
