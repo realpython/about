@@ -19,8 +19,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Lists and Dictionaries    | Added new assignment                          | Alpha v4      | 7/18/2014     |
 | N/A                       | Added download instructions for course files  | Beta v1       | 9/3/2014      |
 | Interacting with the web  | Updated typos                                 | Beta v1       | 9/3/2014      |
-| Lists and Dictionaries    | Adeded new assignment                         | N/A           | N/A           |
-| N/A                       | Added chapter numbers to epub toc             | N/A           | N/A           |
+| Lists and Dictionaries    | Adeded new assignment                         | Beta v2       | 9/19/2014     |
+| N/A                       | Added chapter numbers to epub toc             | Beta v2       | 9/19/2014     |
 
 ### Course 2:
 
@@ -57,12 +57,12 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Getting Started      | Updated Git workflow                                 | Beta v1      | 9/3/2014     |
 | Bloggy Redux         | Updated for Django 1.7 (final)                       | Beta v1      | 9/3/2014     |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v1      | 9/3/2014     |
-| FlaskTaskr - part 3  | Corrected an error in the setup method for tests     | N/A          | N/A          |
-| FlaskTaskr - part 4  | Fixed typo in main template file                     | N/A          | N/A          |
-| N/A                  | Added chapter numbers to epub toc                    | N/A          | N/A          |
-| N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
-| Getting Started      | Expanded the Command Line section                    | N/A          | N/A          |
-| Django: Blog App     | Added a number of features/fixes                     | N/A          | N/A          |
+| FlaskTaskr - part 3  | Corrected an error in the setup method for tests     | Beta v2      | 9/19/2014    |
+| FlaskTaskr - part 4  | Fixed typo in main template file                     | Beta v2      | 9/19/2014    |
+| N/A                  | Added chapter numbers to epub toc                    | Beta v2      | 9/19/2014    |
+| N/A                  | Fixed typos in a number of chapters                  | Beta v2      | 9/19/2014    |
+| Getting Started      | Expanded the Command Line section                    | Beta v2      | 9/19/2014    |
+| Django: Blog App     | Added a number of features/fixes                     | Beta v2      | 9/19/2014    |
 
 ### Course 3:
 
@@ -76,5 +76,5 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | Added download instructions for course files        | Beta v1      | 9/3/2014     |
 | Various                 | Major refactors of all chapters                     | Beta v1      | 9/3/2014     |
 | N/A                     | New chapter: Building the Members Page              | Beta v1      | 9/3/2014     |
-| N/A                     | Added chapter numbers to epub toc                   | N/A          | N/A          |
-| N/A                     | New chapter: REST                                   | N/A          | N/A          |
+| N/A                     | Added chapter numbers to epub toc                   | Beta v2      | 9/19/2014    |
+| N/A                     | New chapter: REST                                   | Beta v2      | 9/19/2014    |
