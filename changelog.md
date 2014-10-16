@@ -21,6 +21,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Interacting with the web  | Updated typos                                 | Beta v1       | 9/3/2014      |
 | Lists and Dictionaries    | Adeded new assignment                         | Beta v2       | 9/19/2014     |
 | N/A                       | Added chapter numbers to epub toc             | Beta v2       | 9/19/2014     |
+| Lists and Dictionaries    | Adeded new assignment                         | Beta v3       | 10/16/2014    |
+| N/A                       | Fixed typos in a number of chapters           | Beta v3       | 10/16/2014    |
 
 ### Course 2:
 
@@ -62,7 +64,11 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Added chapter numbers to epub toc                    | Beta v2      | 9/19/2014    |
 | N/A                  | Fixed typos in a number of chapters                  | Beta v2      | 9/19/2014    |
 | Getting Started      | Expanded the Command Line section                    | Beta v2      | 9/19/2014    |
-| Django: Blog App     | Added a number of features/fixes                     | Beta v2      | 9/19/2014    |
+| FlaskTaskr - part 1  | Updated error with Flask-WTF                         | Beta v3      | 10/16/2014   |
+| N/A                  | Fixed typos in a number of chapters                  | Beta v3      | 10/16/2014   |
+| N/A                  | Fixed pep8 issues in a number of chapters            | Beta v3      | 10/16/2014   |
+| N/A                  | CI and CD                                            | N/A          | N/A          |
+
 
 ### Course 3:
 
@@ -78,3 +84,5 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: Building the Members Page              | Beta v1      | 9/3/2014     |
 | N/A                     | Added chapter numbers to epub toc                   | Beta v2      | 9/19/2014    |
 | N/A                     | New chapter: REST                                   | Beta v2      | 9/19/2014    |
+| N/A                     | New chapter: Django Migrations                      | Beta v3      | 10/16/2014   |
+| N/A                     | New chapter: New chpater: AngularJS Primer          | Beta v3      | 10/16/2014   |
