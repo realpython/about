@@ -64,6 +64,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Added chapter numbers to epub toc                    | Beta v2      | 9/19/2014    |
 | N/A                  | Fixed typos in a number of chapters                  | Beta v2      | 9/19/2014    |
 | Getting Started      | Expanded the Command Line section                    | Beta v2      | 9/19/2014    |
+| Django: Blog App     | Fixed a number of issues added new features          | Beta v3      | 10/16/2014   |
 | FlaskTaskr - part 1  | Updated error with Flask-WTF                         | Beta v3      | 10/16/2014   |
 | N/A                  | Fixed typos in a number of chapters                  | Beta v3      | 10/16/2014   |
 | N/A                  | Fixed pep8 issues in a number of chapters            | Beta v3      | 10/16/2014   |
