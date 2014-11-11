@@ -70,6 +70,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Fixed typos in a number of chapters                  | Beta v3      | 10/16/2014   |
 | N/A                  | Fixed pep8 issues in a number of chapters            | Beta v3      | 10/16/2014   |
 | N/A                  | FlaskTaskr - part 7: CI and CD                       | N/A          | N/A          |
+| FlaskTaskr - part 2  | Updated error with `login()` view function           | N/A          | N/A          |
 
 
 ### Course 3:
@@ -87,4 +88,5 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | Added chapter numbers to epub toc                   | Beta v2      | 9/19/2014    |
 | N/A                     | New chapter: REST                                   | Beta v2      | 9/19/2014    |
 | N/A                     | New chapter: Django Migrations                      | Beta v3      | 10/16/2014   |
-| N/A                     | New chapter: New chpater: AngularJS Primer          | Beta v3      | 10/16/2014   |
+| N/A                     | New chapter: New chapter: AngularJS Primer          | Beta v3      | 10/16/2014   |
+| N/A                     | New chapter: New chapter: Djangular                 | N/A          | N/A          |
