@@ -23,7 +23,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Added chapter numbers to epub toc             | Beta v2       | 9/19/2014     |
 | Lists and Dictionaries    | Adeded new assignment                         | Beta v3       | 10/16/2014    |
 | N/A                       | Fixed typos in a number of chapters           | Beta v3       | 10/16/2014    |
-| N/A                       | Fixed pep8 issues in a number of chapters     | N/a           | N/A           |
+| N/A                       | Fixed pep8 issues in a number of chapters     | N/A           | N/A           |
+| Lists and Dictionaries    | Added alternative solution to cats with hats  | N/A           | N/A           |
 
 ### Course 2:
 
