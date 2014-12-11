@@ -73,6 +73,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Fixed pep8 issues in a number of chapters            | Beta v3      | 10/16/2014   |
 | N/A                  | FlaskTaskr - part 7: CI and CD                       | Beta v4      | 11/14/2014   |
 | FlaskTaskr - part 2  | Updated error with `login()` view function           | Beta v4      | 11/14/2014   |
+| FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
 
 
 ### Course 3:
