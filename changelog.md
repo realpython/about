@@ -25,6 +25,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Fixed typos in a number of chapters           | Beta v3       | 10/16/2014    |
 | N/A                       | Fixed pep8 issues in a number of chapters     | Beta v4       | 11/14/2014    |
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v4       | 11/14/2014    |
+| Conditional logic         | Added alternative solution to coin toss       | N/A           | N/A           |
 
 ### Course 2:
 
