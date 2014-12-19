@@ -74,6 +74,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | FlaskTaskr - part 7: CI and CD                       | Beta v4      | 11/14/2014   |
 | FlaskTaskr - part 2  | Updated error with `login()` view function           | Beta v4      | 11/14/2014   |
 | FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
+| Database Programming | fetchall() method description                        | N/A          | N/A          |
 
 
 ### Course 3:
