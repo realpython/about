@@ -94,5 +94,6 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | Added chapter numbers to epub toc                   | Beta v2      | 9/19/2014    |
 | N/A                     | New chapter: REST                                   | Beta v2      | 9/19/2014    |
 | N/A                     | New chapter: Django Migrations                      | Beta v3      | 10/16/2014   |
-| N/A                     | New chapter: New chapter: AngularJS Primer          | Beta v3      | 10/16/2014   |
-| N/A                     | New chapter: New chapter: Djangular                 | Beta v4      | 11/14/2014   |
+| N/A                     | New chapter: AngularJS Primer                       | Beta v3      | 10/16/2014   |
+| N/A                     | New chapter: Djangular                              | Beta v4      | 11/14/2014   |
+| N/A                     | New chapter: Angular Forms                          | N/A          | N/A          |
