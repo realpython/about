@@ -25,8 +25,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                       | Fixed typos in a number of chapters           | Beta v3       | 10/16/2014    |
 | N/A                       | Fixed pep8 issues in a number of chapters     | Beta v4       | 11/14/2014    |
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v4       | 11/14/2014    |
-| Conditional logic         | Added alternative solution to coin toss       | N/A           | N/A           |
-| Lists and Dictionaries    | Added alternative solution to cats with hats  | N/A           | N/A           |
+| Conditional logic         | Added alternative solution to coin toss       | Beta v5       | 01/08/2015    |
+| Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v5       | 01/08/2015    |
 
 ### Course 2:
 
@@ -74,10 +74,10 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Fixed pep8 issues in a number of chapters            | Beta v3      | 10/16/2014   |
 | N/A                  | FlaskTaskr - part 7: CI and CD                       | Beta v4      | 11/14/2014   |
 | FlaskTaskr - part 2  | Updated error with `login()` view function           | Beta v4      | 11/14/2014   |
-| FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
-| Database Programming | fetchall() method description                        | N/A          | N/A          |
-| Django: Blog App     | Fixed a number of issues added new features          | N/A          | N/A          |
-| Flask BDD            | Added HW assignment                                  | N/A          | N/A          |
+| FlaskTaskr - part 6  | Updated typos                                        | Beta v5      | 01/08/2015   |
+| Database Programming | fetchall() method description                        | Beta v5      | 01/08/2015   |
+| Django: Blog App     | Fixed a number of issues added new features          | Beta v5      | 01/08/2015   |
+| Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
 
 
 ### Course 3:
@@ -97,4 +97,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: Django Migrations                      | Beta v3      | 10/16/2014   |
 | N/A                     | New chapter: AngularJS Primer                       | Beta v3      | 10/16/2014   |
 | N/A                     | New chapter: Djangular                              | Beta v4      | 11/14/2014   |
-| N/A                     | New chapter: Angular Forms                          | N/A          | N/A          |
+| N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
