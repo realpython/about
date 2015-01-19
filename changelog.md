@@ -98,3 +98,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: AngularJS Primer                       | Beta v3      | 10/16/2014   |
 | N/A                     | New chapter: Djangular                              | Beta v4      | 11/14/2014   |
 | N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
+| N/A                     | New chapter: MongoDB Time!                          | N/A          | N/A          |
