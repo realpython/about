@@ -78,6 +78,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Database Programming | fetchall() method description                        | Beta v5      | 01/08/2015   |
 | Django: Blog App     | Fixed a number of issues added new features          | Beta v5      | 01/08/2015   |
 | Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
+| FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
 
 
 ### Course 3:
