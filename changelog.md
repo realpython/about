@@ -27,6 +27,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v4       | 11/14/2014    |
 | Conditional logic         | Added alternative solution to coin toss       | Beta v5       | 01/08/2015    |
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v5       | 01/08/2015    |
+| Various                   | Corrected a few typos                         | N/A           | N/A           |
 
 ### Course 2:
 
