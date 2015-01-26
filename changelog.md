@@ -49,11 +49,11 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Getting Started      | Revised/edited                                       | Alpha v4     | 7/18/2014    |
 | Appendix             | Updated Python download instructions                 | Alpha v4     | 7/18/2014    |
 | Getting Started      | Expanded command line section                        | Alpha v4     | 7/18/2014    |
-| Flask: Hello World   | Updated Dynamic URLs section                         | Alpha v5     | 8/19/2014    |
+| Flask: Quickstart    | Updated Dynamic URLs section                         | Alpha v5     | 8/19/2014    |
 | FlaskTaskr           | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
 | N/A                  | Django Blongo - Django + Mongo                       | Alpha v5     | 8/19/2014    |
 | Database Programming | Updated intro, added SQL sumary                      | Alpha v5     | 8/19/2014    |
-| Flask: Hello World   | Added Flow of the App section                        | Beta v1      | 9/3/2014     |
+| Flask: Quickstart    | Added Flow of the App section                        | Beta v1      | 9/3/2014     |
 | Django Ecommerce     | Added into about outputting forms as HTML            | Beta v1      | 9/3/2014     |
 | FlaskTaskr           | Corrected a few typos                                | Beta v1      | 9/3/2014     |
 | N/A                  | Added download instructions for course files         | Beta v1      | 9/3/2014     |
@@ -79,6 +79,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Blog App     | Fixed a number of issues added new features          | Beta v5      | 01/08/2015   |
 | Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
 | FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
+| Flask: Quickstart    | Added external resources - re: decorators            | N/A          | N/A          |
 
 
 ### Course 3:
