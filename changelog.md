@@ -27,7 +27,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v4       | 11/14/2014    |
 | Conditional logic         | Added alternative solution to coin toss       | Beta v5       | 01/08/2015    |
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v5       | 01/08/2015    |
-| Various                   | Corrected a few typos                         | N/A           | N/A           |
+| Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
 
 ### Course 2:
 
@@ -79,8 +79,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Database Programming | fetchall() method description                        | Beta v5      | 01/08/2015   |
 | Django: Blog App     | Fixed a number of issues added new features          | Beta v5      | 01/08/2015   |
 | Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
-| FlaskTaskr           | Corrected a few typos                                | N/A          | N/A          |
-| Flask: Quickstart    | Added external resources - re: decorators            | N/A          | N/A          |
+| FlaskTaskr           | Corrected a few typos                                | Beta v6      | 01/26/2015    |
+| Flask: Quickstart    | Added external resources - re: decorators            | Beta v6      | 01/26/2015    |
 
 
 ### Course 3:
@@ -101,4 +101,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: AngularJS Primer                       | Beta v3      | 10/16/2014   |
 | N/A                     | New chapter: Djangular                              | Beta v4      | 11/14/2014   |
 | N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
-| N/A                     | New chapter: MongoDB Time!                          | N/A          | N/A          |
+| N/A                     | New chapter: MongoDB Time!                          | Beta v6      | 01/26/2015    |
