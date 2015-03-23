@@ -82,6 +82,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
 | FlaskTaskr           | Corrected a few typos                                | Beta v6      | 01/26/2015   |
 | Flask: Quickstart    | Added external resources - re: decorators            | Beta v6      | 01/26/2015   |
+| Debugging in Python  | Fixed typos, addressed pep8 issues                   | N/A          | N/A          |
 
 
 ### Course 3:
