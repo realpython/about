@@ -2,6 +2,7 @@
 
 Please note: We update this file anytime we make any changes. However, such changes do not actually make it into the course builds until a new release is issued, indicated by a release name, number, and date.
 
+
 ### Course 1:
 
 | Chapter                   | Description                                   | Release Info  | Release Date  |
@@ -30,6 +31,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
 | Web applications          | Corrected a small typo                        | N/A           | N/A           |
 | SQL database connections  | Corrected a small typo                        | N/A           | N/A           |
+
 
 ### Course 2:
 
@@ -86,6 +88,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Debugging in Python  | Fixed typos, addressed pep8 issues                   | N/A          | N/A          |
 | FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
 | Interlude: APIs      | Updated typo                                         | N/A          | N/A          |
+| Database Programming | Updated typo                                         | N/A          | N/A          |
 
 
 ### Course 3:
