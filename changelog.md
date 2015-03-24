@@ -29,6 +29,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v5       | 01/08/2015    |
 | Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
 | Web applications          | Corrected a small typo                        | N/A           | N/A           |
+| SQL database connections  | Corrected a small typo                        | N/A           | N/A           |
 
 ### Course 2:
 
