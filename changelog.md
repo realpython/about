@@ -84,6 +84,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Flask: Quickstart    | Added external resources - re: decorators            | Beta v6      | 01/26/2015   |
 | Debugging in Python  | Fixed typos, addressed pep8 issues                   | N/A          | N/A          |
 | FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
+| Interlude: APIs      | Updated typo                                         | N/A          | N/A          |
 
 
 ### Course 3:
