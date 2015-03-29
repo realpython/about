@@ -89,6 +89,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
 | Interlude: APIs      | Updated typo                                         | N/A          | N/A          |
 | Database Programming | Updated typo                                         | N/A          | N/A          |
+| FlaskTaskr           | Updated all 7 chapters - ported to python 3          | N/A          | N/A          |
 
 
 ### Course 3:
