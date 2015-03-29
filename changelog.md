@@ -29,8 +29,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Conditional logic         | Added alternative solution to coin toss       | Beta v5       | 01/08/2015    |
 | Lists and Dictionaries    | Added alternative solution to cats with hats  | Beta v5       | 01/08/2015    |
 | Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
-| Web applications          | Corrected a small typo                        | N/A           | N/A           |
-| SQL database connections  | Corrected a small typo                        | N/A           | N/A           |
+| Web applications          | Corrected a small typo                        | Beta v7       | 03/29/2015    |
+| SQL database connections  | Corrected a small typo                        | Beta v7       | 03/29/2015    |
 
 
 ### Course 2:
@@ -85,11 +85,11 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Flask BDD            | Added HW assignment                                  | Beta v5      | 01/08/2015   |
 | FlaskTaskr           | Corrected a few typos                                | Beta v6      | 01/26/2015   |
 | Flask: Quickstart    | Added external resources - re: decorators            | Beta v6      | 01/26/2015   |
-| Debugging in Python  | Fixed typos, addressed pep8 issues                   | N/A          | N/A          |
-| FlaskTaskr - part 6  | Updated typos                                        | N/A          | N/A          |
-| Interlude: APIs      | Updated typo                                         | N/A          | N/A          |
-| Database Programming | Updated typo                                         | N/A          | N/A          |
-| FlaskTaskr           | Updated all 7 chapters - ported to python 3          | N/A          | N/A          |
+| Debugging in Python  | Fixed typos, addressed pep8 issues                   | Beta v7      | 03/29/2015   |
+| FlaskTaskr - part 6  | Updated typos                                        | Beta v7      | 03/29/2015   |
+| Interlude: APIs      | Updated typo                                         | Beta v7      | 03/29/2015   |
+| Database Programming | Updated typo                                         | Beta v7      | 03/29/2015   |
+| FlaskTaskr           | Updated all 7 chapters - ported to python 3          | Beta v7      | 03/29/2015   |
 
 
 ### Course 3:
@@ -111,4 +111,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: Djangular                              | Beta v4      | 11/14/2014   |
 | N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
 | N/A                     | New chapter: MongoDB Time!                          | Beta v6      | 01/26/2015   |
-| N/A                     | New chapter: One Admin to Rule Them All             | N/A          | N/A          |
+| N/A                     | New chapter: One Admin to Rule Them All             | Beta v7      | 03/29/2015   |
