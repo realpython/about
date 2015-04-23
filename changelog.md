@@ -112,3 +112,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
 | N/A                     | New chapter: MongoDB Time!                          | Beta v6      | 01/26/2015   |
 | N/A                     | New chapter: One Admin to Rule Them All             | Beta v7      | 03/29/2015   |
+| N/A                     | New chapter: Testing, Testing, and More Testing     | N/A          | N/A          |
