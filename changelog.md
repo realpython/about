@@ -90,6 +90,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Interlude: APIs      | Updated typo                                         | Beta v7      | 03/29/2015   |
 | Database Programming | Updated typo                                         | Beta v7      | 03/29/2015   |
 | FlaskTaskr           | Updated all 7 chapters - ported to python 3          | Beta v7      | 03/29/2015   |
+| FlaskTaskr           | Updated typos                                        | N/A          | N/A          |
 
 
 ### Course 3:
