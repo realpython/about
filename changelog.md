@@ -31,7 +31,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
 | Web applications          | Corrected a small typo                        | Beta v7       | 03/29/2015    |
 | SQL database connections  | Corrected a small typo                        | Beta v7       | 03/29/2015    |
-
+| OOP                       | Added new assignment                          | N/A           | N/A           |
 
 ### Course 2:
 
@@ -92,7 +92,6 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated all 7 chapters - ported to python 3          | Beta v7      | 03/29/2015   |
 | FlaskTaskr           | Updated typos                                        | N/A          | N/A          |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | N/A          | N/A          |
-
 
 ### Course 3:
 
