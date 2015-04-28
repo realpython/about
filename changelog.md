@@ -31,7 +31,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Various                   | Corrected a few typos, pep8 issues            | Beta v6       | 01/26/2015    |
 | Web applications          | Corrected a small typo                        | Beta v7       | 03/29/2015    |
 | SQL database connections  | Corrected a small typo                        | Beta v7       | 03/29/2015    |
-| OOP                       | Added new assignment                          | N/A           | N/A           |
+| OOP                       | Added new assignment                          | Beta v8       | 04/27/2015    |
 
 ### Course 2:
 
@@ -90,8 +90,8 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Interlude: APIs      | Updated typo                                         | Beta v7      | 03/29/2015   |
 | Database Programming | Updated typo                                         | Beta v7      | 03/29/2015   |
 | FlaskTaskr           | Updated all 7 chapters - ported to python 3          | Beta v7      | 03/29/2015   |
-| FlaskTaskr           | Updated typos                                        | N/A          | N/A          |
-| Scraping & Crawling  | Updated Wikipedia Crawler                            | N/A          | N/A          |
+| FlaskTaskr           | Updated typos                                        | Beta v8      | 04/27/2015   |
+| Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v8      | 04/27/2015   |
 
 ### Course 3:
 
@@ -113,4 +113,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: Angular Forms                          | Beta v5      | 01/08/2015   |
 | N/A                     | New chapter: MongoDB Time!                          | Beta v6      | 01/26/2015   |
 | N/A                     | New chapter: One Admin to Rule Them All             | Beta v7      | 03/29/2015   |
-| N/A                     | New chapter: Testing, Testing, and More Testing     | N/A          | N/A          |
+| N/A                     | New chapter: Testing, Testing, and More Testing     | Beta v8      | 04/27/2015   |
