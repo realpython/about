@@ -92,7 +92,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated all 7 chapters - ported to python 3          | Beta v7      | 03/29/2015   |
 | FlaskTaskr           | Updated typos                                        | Beta v8      | 04/27/2015   |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v8      | 04/27/2015   |
-| N/a                  | Updated to Django v1.8                               | N/A          | N/A          |
+| N/A                  | Updated to Django v1.8                               | Beta v9      | 05/26/2015   |
 
 ### Course 3:
 
@@ -115,4 +115,4 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: MongoDB Time!                          | Beta v6      | 01/26/2015   |
 | N/A                     | New chapter: One Admin to Rule Them All             | Beta v7      | 03/29/2015   |
 | N/A                     | New chapter: Testing, Testing, and More Testing     | Beta v8      | 04/27/2015   |
-| N/a                     | Updated to Django v1.8                              | N/A          | N/A          |
+| N/A                     | Updated to Django v1.8                              | Beta v9      | 05/26/2015   |
