@@ -93,6 +93,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated typos                                        | Beta v8      | 04/27/2015   |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v8      | 04/27/2015   |
 | N/A                  | Updated to Django v1.8                               | Beta v9      | 05/26/2015   |
+| N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
 
 ### Course 3:
 
