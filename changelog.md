@@ -93,7 +93,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | FlaskTaskr           | Updated typos                                        | Beta v8      | 04/27/2015   |
 | Scraping & Crawling  | Updated Wikipedia Crawler                            | Beta v8      | 04/27/2015   |
 | N/A                  | Updated to Django v1.8                               | Beta v9      | 05/26/2015   |
-| N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
+| N/A                  | Fixed typos in a number of chapters                  | v1           | 06/12/2015   |
 
 ### Course 3:
 
@@ -117,5 +117,5 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                     | New chapter: One Admin to Rule Them All             | Beta v7      | 03/29/2015   |
 | N/A                     | New chapter: Testing, Testing, and More Testing     | Beta v8      | 04/27/2015   |
 | N/A                     | Updated to Django v1.8                              | Beta v9      | 05/26/2015   |
-| REST                    | Updated to DRF 3                                    | N/A          | N/A          |
-| N/A                     | New chapter: Deploy                                 | N/A          | N/A          |
+| REST                    | Updated to DRF 3                                    | v1           | 06/12/2015   |
+| N/A                     | New chapter: Deploy                                 | v1           | 06/12/2015   |
