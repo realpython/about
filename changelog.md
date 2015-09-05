@@ -95,6 +95,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Updated to Django v1.8                               | Beta v9      | 05/26/2015   |
 | N/A                  | Fixed typos in a number of chapters                  | v1           | 06/12/2015   |
 | N/A                  | Fixed typos in a number of chapters                  | N/A          | N/A          |
+| Django: Quickstart   | Updates for Django 1.8                               | N/A          | N/A          |
 
 ### Course 3:
 
