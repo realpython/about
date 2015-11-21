@@ -95,9 +95,10 @@ Please note: We update this file anytime we make any changes. However, such chan
 | N/A                  | Updated to Django v1.8                               | Beta v9      | 05/26/2015   |
 | N/A                  | Fixed typos in a number of chapters                  | v1           | 06/12/2015   |
 | N/A                  | Fixed typos in a number of chapters                  | v1.0.1       | 09/07/2015   |
-| Django: Quickstart   | Updates for Django 1.8                               | v1.0.1       | 09/07/2015   |
-| Django: Blog App     | Updates for Django 1.8                               | v1.0.1       | 09/07/2015   |
-| Bloggy Redux: Blongo | Updates for Django 1.8                               | v1.0.1       | 09/07/2015   |
+| Django: Quickstart   | Updated for Django 1.8                               | v1.0.1       | 09/07/2015   |
+| Django: Blog App     | Updated for Django 1.8                               | v1.0.1       | 09/07/2015   |
+| Bloggy Redux: Blongo | Updated for Django 1.8                               | v1.0.1       | 09/07/2015   |
+| Scraping & Crawling | Updated to latest version of Scrapy                   | N/A       | N/A   |
 
 ### Course 3:
 
