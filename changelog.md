@@ -99,6 +99,7 @@ Please note: We update this file anytime we make any changes. However, such chan
 | Django: Blog App     | Updated for Django 1.8                               | v1.0.1       | 09/07/2015   |
 | Bloggy Redux: Blongo | Updated for Django 1.8                               | v1.0.1       | 09/07/2015   |
 | Scraping & Crawling | Updated to latest version of Scrapy                   | N/A       | N/A   |
+| Django: Blog App | Converted some relative imports to absolute              | N/A       | N/A   |
 
 ### Course 3:
 
