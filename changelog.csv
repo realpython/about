@@ -1,4 +1,5 @@
  Course , Chapter                    , Description                          , Release # ,Release Date
+1, N/A , Updated entire course to Python 3.5.1; added MechanicalSoup to the scraping chapter , N/A , N/A
 2, Scraping & Crawling , Updated to latest version of Scrapy                   ,v1.0.2,12/21/2015
 2, Django: Blog App , Converted some relative imports to absolute              ,v1.0.2,12/21/2015
 2, API ," Removed Rotten Tomatoes, added My API Films              ",v1.0.2,12/21/2015
