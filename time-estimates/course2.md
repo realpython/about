@@ -1,38 +1,40 @@
-| chapter | time    |
-|---------|---------|
-| 01      | 1.5     |
-| 02      | 8       |
-| 03      | 2       |
-| 04      | 8       |
-| 05      | 8       |
-| 06      | 12      |
-| 07      | 4       |
-| 08      | 8       |
-| 09      | 10      |
-| 10      | 10      |
-| 11      | 4       |
-| 12      | 10      |
-| 13      | 10      |
-| 14      | 7       |
-| 15      | 7       |
-| 16      | 7       |
-| 17      | 5       |
-| 18      | 10      |
-| 19      | 2       |
-| 20      | 8       |
-| 21      | 10      |
-| 22      | 12      |
-| 23      | 10      |
-| 24      | 12      |
-| 25      | 8       |
-| 26      | 8       |
-| 27      | 3       |
-| 28      | 6       |
-| 29      | 4       |
-| 30      | 1       |
-| 31      | 4       |
-| 32      | 14      |
-| 33      | 1       |
-| 34      | 6       |
+| chapter                                                                 | time (hours) |
+|-------------------------------------------------------------------------|--------------|
+| Introduction                                                       | 1.5          |
+| Getting Started                                                    | 8            |
+| Interlude: Modern Web Development                                  | 2            |
+| Flask: Quick Start                                                 | 8            |
+| Interlude: Database Programming                                    | 8            |
+| Flask Blog App                                                     | 12           |
+| Interlude: Debugging in Python                                     | 4            |
+| Flask: FlaskTaskr, Part 1 - Quick Start                            | 8            |
+| Flask: FlaskTaskr, Part 2 - SQLAlchemy and User Management         | 10           |
+| Flask: FlaskTaskr, Part 3 - Error Handling and Testing             | 10           |
+| Interlude: Introduction to HTML and CSS                            | 4            |
+| Flask: FlaskTaskr, Part 4 - Styles, Test Coverage, and Permissions | 10           |
+| Flask: FlaskTaskr, Part 5 - Blueprints                             | 10           |
+| Flask: FlaskTaskr, Part 6 - New features and Error Handling        | 7            |
+| Flask: FlaskTaskr, Part 7 - Deployment                              | 7            |
+| Flask: FlaskTaskr, Part 8 - RESTful API                             | 7            |
+| Interlude: Flask Boilerplate Template and Workflow                 | 5            |
+| Flask: FlaskTaskr, Part 9 - Continuous Integration and Delivery     | 10           |
+| Flask: Behavior-Driven Development with Behave                     | 2            |
+| Interlude: Web Frameworks, Compared                                | 8            |
+| web2py: QuickStart                                                 | 10           |
+| Interlude: APIs                                                    | 12           |
+| web2py: Sentiment Analysis                                         | 10           |
+| web2py: py2manager                                                 | 12           |
+| Interlude: Web Scraping and Crawling                               | 8            |
+| web2py: REST Redux                                                 | 8            |
+| Django: Quick Start                                                | 3            |
+| Interlude: Introduction to Javascript and jQuery                   | 6            |
+| Bloggy: A blog app (part one)                                      | 4            |
+| Bloggy: A blog app (part two)                                      | 4            |
+| Django Workflow                                                    | 1            |
+| Bloggy Redux: Introducing Blongo                                   | 4            |
+| Django: Ecommerce Site                                             | 14           |
+| Appendix A: Installing Python                                      | 1            |
+| Appendix B: Supplementary Materials                                | 6            |
+| Acknowledgements                                                   | 0.1          |
 
-TOTAL: ~240 hours
+TOTAL: ~245 hours
