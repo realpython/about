@@ -34,12 +34,12 @@ By the end of this talk, you will be able to...
 1. Intro
 1. Automated tests
   - testing pyramid
-  - types of tests
+    - types of tests (unit, integration, functional)
   - functional tests
+1. Sample project overview
+  - Flask API
+  - AJAX client-side
 1. Project setup
-  - Sample project overview
-    - Flask API
-    - AJAX client-side
   - Nightwatch
     - Install
     - Configure
