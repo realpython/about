@@ -21,9 +21,7 @@ Those attending should have a basic understanding of unit and integration testin
 
 ### What do you expect the audience to learn or do after watching the talk?
 
-By the end of this talk, you should be able to...
-
-By the end of this tutorial, you will be able to…
+By the end of this talk, you will be able to...
 
 1. Discuss the benefits of automating tests
 1. Explain what functional tests are
@@ -39,8 +37,16 @@ By the end of this tutorial, you will be able to…
   - types of tests
   - functional tests
 1. Project setup
-  - Flask API
+  - Sample project overview
+    - Flask API
+    - AJAX client-side
   - Nightwatch
+    - Install
+    - Configure
+    - Sample test
 1. Test writing
+    - Test UI
 1. Next steps
   - Homework
+    - Finish testing UI
+  - Conclusions
