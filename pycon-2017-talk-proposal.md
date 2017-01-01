@@ -27,7 +27,7 @@ By the end of this talk, you will be able to...
 1. Explain what functional tests are
 1. Compare and contrast functional tests with integration and unit tests
 1. Set up a project with Nightwatch
-1. Write functional tests to test a Flask API
+1. Write functional tests to test a Flask App
 
 ## Outline
 
