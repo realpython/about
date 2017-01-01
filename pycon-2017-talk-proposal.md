@@ -6,7 +6,7 @@ Introduction to Functional Testing
 
 ## Description
 
-Functional tests. What are they? How do they differ from unit and integration tests? Which tools should you use? The hardest part is getting set up - which is exactly what this talk will go through: Setting up a functional testing framework with Nightwatch.js to test a Flask API.
+Functional tests. What are they? How do they differ from unit and integration tests? Which tools should you use? The hardest part is getting set up - which is exactly what this talk will go through: Setting up a functional testing framework with Nightwatch.js to test a Flask App.
 
 ## Who and Why
 
